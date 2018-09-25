@@ -4,11 +4,18 @@ This project demonstrate simple examples working with 3D graphics on C++ (OpenGL
 
 # Screenshots
 
-* Specular
+**Specular**
+
 ![Alt-текст](Screenshots/01.png "01")
-* ShadowMap, Directional Light, Point lights
+
+**ShadowMap, Directional Light, Point lights**
+
 ![Alt-текст](Screenshots/02.png "02")
-* Spotlight
+
+**Spotlight**
+
 ![Alt-текст](Screenshots/03.png "03")
-* 
+
+**-**
+
 ![Alt-текст](Screenshots/factory.png "04")
